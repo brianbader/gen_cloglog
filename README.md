@@ -1,5 +1,5 @@
 # gen_cloglog
-A class of link functions that generalize the cloglog link function. This leads to better pure fit to the data than the cloglog link and it can be tested for significance simply through a likelihood ratio test. See the vignette for details.
+A class of link functions that generalize the cloglog link function. This leads to better pure fit to the data (smaller residual deviance) than the cloglog link and it can be tested for significance simply through a likelihood ratio test. See the vignette for details.
 
 link_fun.R contains the function to use the link and examples of its application on data.
 
